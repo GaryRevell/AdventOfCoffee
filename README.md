@@ -1,3 +1,3 @@
 # AdventOfCoffee
 
-Submit your solutions to the Advent of Code puzzles here.
+Submit PRs for your solutions to the Advent of Code puzzles of 2017. Please put all your scripts into one single folder and name the scripts according to `day_01.py`, `day_02.py` etc.
